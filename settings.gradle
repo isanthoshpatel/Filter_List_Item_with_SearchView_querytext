@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Filter_List_Item_with_SearchView_querytext'
